@@ -16,7 +16,7 @@ Run the script with some flags below (-a or -f) and extra options:
                     in current file location;
     -f <dir_path>   run the searching of all files and sub-dirs
                     in received dir;
-    -f <path_path>  run the searching for selected file
+    -f <file_path>  run the searching for selected file
                     It can check all files (not only TARGET_FILES)
                     Also this function can check binary files.
 Extra options:
